@@ -1,2 +1,2 @@
 # Electrochemical-Noise-Data
-A public domain dataset of ECN (Electrochemical Noise) recordings for classification of Corrosion Types and Corrosive Substances
+This database contains two groups of Electrochemical Noise. One is the electrochemical noise dataset (voltage and current) of four different corrosive states: crevice, pitting, passivation and watermark. The other group consists of ECN data (only potential) of AISI 1020 steel immersed in different types of corrosive agents, namely:KCl, NaOH, KOH, NaCl, FeCl3 and H2SO4.
